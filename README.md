@@ -60,3 +60,6 @@ To develop a production-ready, optimized inventory service as a part of a larger
   mvn test
 
 ## also Used Swagger to show docuementation of API
+http://localhost:8080/inventory/swagger-ui/index.html#/inventory-controller/checkAvailabilityItem
+
+context path is /inventory
